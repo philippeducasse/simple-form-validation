@@ -1,5 +1,8 @@
-# This project was built by following the tutorial from LamaDev. The full tutorial can be found here: https://www.youtube.com/watch?v=tIdNeoHniEY
+# This project was built by following the tutorial from LamaDev. 
 
+The full tutorial can be found here: https://www.youtube.com/watch?v=tIdNeoHniEY
+
+![Screenshot](Screenshot.png)
 
 ## The Project
 
